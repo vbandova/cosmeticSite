@@ -1,8 +1,5 @@
-# React-Redux-Saga Boilerplate
-
-[![Build Status](https://travis-ci.org/gilbarbara/react-redux-saga-boilerplate.svg?branch=master)](https://travis-ci.org/gilbarbara/react-redux-saga-boilerplate) [![Dependencies](https://david-dm.org/gilbarbara/react-redux-saga-boilerplate.svg)](https://david-dm.org/gilbarbara/react-redux-saga-boilerplate) [![Maintainability](https://api.codeclimate.com/v1/badges/eb66aa0049fa03acbbf3/maintainability)](https://codeclimate.com/github/gilbarbara/react-redux-saga-boilerplate/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/eb66aa0049fa03acbbf3/test_coverage)](https://codeclimate.com/github/gilbarbara/react-redux-saga-boilerplate/test_coverage)
-
-[Demo](https://redux-saga.react-boilerplate.com/)
+# Alma Morel UI
+alma morel cosmetic website
 
 ### Provides
 
@@ -48,3 +45,4 @@
 - cypress 3.0.x
 
 `npm run test:e2e`
+
